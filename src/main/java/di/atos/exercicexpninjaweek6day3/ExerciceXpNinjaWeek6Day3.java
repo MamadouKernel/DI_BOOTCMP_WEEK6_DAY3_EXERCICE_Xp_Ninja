@@ -6,7 +6,7 @@ package di.atos.exercicexpninjaweek6day3;
 
 /**
  *
- * @author ezekielkouassi
+ * @author KONATE-MK
  */
 public class ExerciceXpNinjaWeek6Day3 {
 
