@@ -42,3 +42,14 @@ public class ExerciceXpNinjaWeek6Day3 {
     }
     
 }
+
+
+
+
+
+
+
+/**
+ *
+ * @author KONATE-MK
+ */
